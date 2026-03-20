@@ -1,10 +1,10 @@
 {
-  "name": "dark-bruv",
-  "displayName": "dark-bruv",
-  "description": "Dark Bruv Theme",
-  "version": "0.9.0",
+  "name": "dark-bruv-neo",
+  "displayName": "Dark Bruv Neo",
+  "description": "A premium dark theme built for AI-first development. Deep navy background, signature pink accents, and semantic token support across 12+ languages.",
+  "version": "2.0.0",
   "engines": {
-    "vscode": "^1.33.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
@@ -16,9 +16,15 @@
     "Felipe Bruvers"
   ],
   "keywords": [
-    "bruv",
     "dark",
     "theme",
+    "pink",
+    "bruv",
+    "neo",
+    "typescript",
+    "react",
+    "ai",
+    "semantic",
     "color-theme"
   ],
   "icon": "icon.png",
@@ -27,22 +33,17 @@
     "url": "https://github.com/bruversFelipe/themeDarkBruv.git"
   },
   "galleryBanner": {
-    "color": "#24272e",
+    "color": "#1a1a2e",
     "theme": "dark"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Dark Bruv Theme",
+        "label": "Dark Bruv Neo",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_bruv.json"
       }
     ]
   },
-  "publisher": "themebruv",
-  "__metadata": {
-    "id": "7de299bc-9603-405f-a67f-a2f2336b8a6c",
-    "publisherId": "226487b1-8650-4064-a603-23ee9b642c6d",
-    "publisherDisplayName": "themebruv"
-  }
+  "publisher": "themebruv"
 }
