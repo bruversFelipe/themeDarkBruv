@@ -2,7 +2,7 @@
   "name": "dark-bruv-neo",
   "displayName": "Dark Bruv Neo",
   "description": "A premium dark theme built for AI-first development. Deep navy background, signature pink accents, and semantic token support across 12+ languages.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
