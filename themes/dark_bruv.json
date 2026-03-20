@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dark Bruv",
+  "name": "Dark Bruv Neo",
   "type": "dark",
   "include": "./dark_vs.json",
   "semanticHighlighting": true,
