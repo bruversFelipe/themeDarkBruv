@@ -13,16 +13,16 @@
     "typeParameter":       { "foreground": "#56d4e8" },
     "function":            { "foreground": "#fa57d7", "fontStyle": "italic" },
     "method":              { "foreground": "#fa57d7", "fontStyle": "italic" },
-    "variable":            { "foreground": "#fcf948" },
-    "parameter":           { "foreground": "#fcf948" },
+    "variable":            { "foreground": "#e5c07b" },
+    "parameter":           { "foreground": "#e5c07b" },
     "property":            { "foreground": "#cdd6f4" },
-    "enumMember":          { "foreground": "#569cd6" },
+    "enumMember":          { "foreground": "#61afef" },
     "decorator":           { "foreground": "#d7ba7d" },
     "namespace":           { "foreground": "#b791ff" },
     "keyword":             { "foreground": "#fa57d7" },
-    "variable.readonly":   { "foreground": "#569cd6" },
-    "property.readonly":   { "foreground": "#569cd6" },
-    "variable.static":     { "foreground": "#fcf948", "fontStyle": "underline" }
+    "variable.readonly":   { "foreground": "#61afef" },
+    "property.readonly":   { "foreground": "#61afef" },
+    "variable.static":     { "foreground": "#e5c07b", "fontStyle": "underline" }
   },
 
   "tokenColors": [
@@ -150,7 +150,7 @@
         "variable.scss",
         "variable.other.normal.shell"
       ],
-      "settings": { "foreground": "#fcf948" }
+      "settings": { "foreground": "#e5c07b" }
     },
     {
       "name": "Python self/cls",
@@ -165,7 +165,7 @@
         "constant.language",
         "constant.language.json"
       ],
-      "settings": { "foreground": "#569cd6" }
+      "settings": { "foreground": "#61afef" }
     },
     {
       "name": "Numeric literals",
@@ -174,12 +174,12 @@
         "constant.numeric.css",
         "keyword.other.unit.css"
       ],
-      "settings": { "foreground": "#569cd6" }
+      "settings": { "foreground": "#61afef" }
     },
     {
       "name": "Constant character",
       "scope": "constant.character",
-      "settings": { "foreground": "#569cd6" }
+      "settings": { "foreground": "#61afef" }
     },
     {
       "name": "Escape characters",
@@ -253,7 +253,7 @@
         "entity.other.attribute-name.jsx",
         "entity.other.attribute-name.html"
       ],
-      "settings": { "foreground": "#fcf948" }
+      "settings": { "foreground": "#e5c07b" }
     },
     {
       "name": "JSX expression containers",
